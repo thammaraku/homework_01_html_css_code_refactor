@@ -29,23 +29,23 @@ https://github.com/thammaraku/homework_01_html_css_code_refactor.git
 ## Problems and Solutions :
 
 **Problem:**  Majority of code is not in acessibility standard.\
-**Solution:** Put the code under HTML semantic elements by replacing div tag by semantic tags (header, footer, nav, main, section, aside).\ 
-Rearranged HTML and CSS file to be indenpendent of positioning and styleing.\
+**Solution:** Put the code under HTML semantic elements by replacing div tag by semantic tags (header, footer, nav, main, section, aside). 
+Rearranged HTML and CSS file to be indenpendent of positioning and styleing.
 
 **Problem:**  CSS structure is not well organized. Many classes/IDs share the same properties which could be consolidated.\
-**Solution:** Consolidated classes/IDs which share the same properties by using the right CSS selectors.\
+**Solution:** Consolidated classes/IDs which share the same properties by using the right CSS selectors.
 
 **Problem:**  One of Navigation Pane links is not working.\
-**Solution:** Corrected classed/IDs assignment on that partucular link.\
+**Solution:** Corrected classed/IDs assignment on that partucular link.
 
 **Problem:**  Images are missing accessible alt attributes.\
-**Solution:** Added alt attribute on all the image tags, including the hero image.\
+**Solution:** Added alt attribute on all the image tags, including the hero image.
 
 **Problem:**  Web page title is not informative.\
-**Solution:** Added more information about the company under title tag.\
+**Solution:** Added more information about the company under title tag.
 
 **Problem:**  Comments are missing on both HTML and CSS files.\
-**Solution:** Added comments on both HTML and CSS file by grouping into each element.\
+**Solution:** Added comments on both HTML and CSS file by grouping into each element.
 
 
 
