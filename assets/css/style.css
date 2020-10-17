@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/********** HEADER **********/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,6 +21,8 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/********** NAVIGATION PANE **********/
 
 nav {
     padding-top: 15px;
@@ -46,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/********** HERO IMAGE **********/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -60,20 +66,7 @@ p {
     z-index: -1;
   }
 
-#search-engine-optimization img {
-    float: left;
-    margin-right: 25px;
-}
-
-#online-reputation-management img {
-    float: right;
-    margin-left: 25px;
-}
-
-#social-media-marketing img {
-    float: left;
-    margin-right: 25px;
-}
+/********** MAIN CONTENTS **********/
 
 main {
     width: 75%;
@@ -99,7 +92,22 @@ section img {
     max-height: 200px; 
 }
 
+#search-engine-optimization img {
+    float: left;
+    margin-right: 25px;
+}
 
+#online-reputation-management img {
+    float: right;
+    margin-left: 25px;
+}
+
+#social-media-marketing img {
+    float: left;
+    margin-right: 25px;
+}
+
+/********** RIGHT COLUMN **********/
 
 aside {
     margin-right: 20px;
@@ -131,6 +139,8 @@ aside {
 .benefit p {
     margin-bottom: 32px;
 }
+
+/********** FOOTER **********/
 
 footer {
     padding: 30px;
