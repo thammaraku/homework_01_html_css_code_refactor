@@ -55,7 +55,7 @@ p {
     background-position: center;
 }
 
-.hero > p {
+.hero p {
     position: relative;
     z-index: -1;
   }
